@@ -9,6 +9,8 @@ function App() {
   return (
     <div className="App">
       <h1>Simon's here </h1>
+      <p>Add some fruits</p>
+      <p>fruit #1</p>
     </div>
   );
 }
